@@ -1,0 +1,53 @@
+{
+    "name": "API Platform",
+    "description": "<p>An incredible PHP web framework to build modern, API-first web projects! Out of the box hypermedia and Linked Data support with JSON-LD, Schema.org and Hydra.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-platform-logo.png",
+    "tags": [
+        "api service provider",
+        "api tools",
+        "deployment",
+        "framework",
+        "have api",
+        "hydra",
+        "hypermedia",
+        "json ld",
+        "linked data",
+        "php",
+        "schema.org"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/api-platform\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "API Platform",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-platform-logo.png",
+            "humanURL": "https:\/\/api-platform.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-platform-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/api-platform"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ApiPlatform"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/api-platform.com"
+        }
+    ]
+}
